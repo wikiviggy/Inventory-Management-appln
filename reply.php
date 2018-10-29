@@ -2,7 +2,7 @@
 
     $servername = "localhost";
     $username = "root";
-    $password = "";
+    $password = "mysql";
     $dbname = "ims";
     $array=[];
     // Create connection
