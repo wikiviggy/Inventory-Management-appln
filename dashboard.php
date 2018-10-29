@@ -8,7 +8,7 @@
 <?php
 $servername='localhost';
 $username='root';
-$password='';
+$password='mysql';
 $dbname='ims';
 $no= [];
 $name= [];
