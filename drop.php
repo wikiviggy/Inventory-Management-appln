@@ -2,7 +2,7 @@
     //------insert.php------
      $servername = "localhost";
     $username = "root";
-    $password = "";
+    $password = "mysql";
     $dbname = "ims";
     // Create connection
     $conn = new mysqli($servername, $username, $password,$dbname);
