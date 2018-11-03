@@ -2,7 +2,7 @@
   <?php
   $servername='localhost';
   $username='root';
-  $password='';
+  $password='mysql';
   $dbname='ims';
   $no = $_POST["sno"];
   $name = $_POST["name"];
