@@ -1,2 +1,1 @@
-# ash_IMS
-ash project
+# Inventory Management Web application
